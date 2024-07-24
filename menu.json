@@ -6,7 +6,8 @@
         "restaurant_id": 1,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/03b/787727453bd857cff70be6560bfb603b.png",
         "menu_type": "vegetarian",
-        "menu_price": "99"
+        "menu_price": "99",
+        "quantity": 0
     },
     {
         "menu_id":2,
@@ -15,7 +16,8 @@
         "restaurant_id": 1,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/a3d/7ca006ec8907c2ae13fd006cf0853a3d.png",
         "menu_type": "vegetarian",
-        "menu_price": "229"
+        "menu_price": "229",
+        "quantity": 0
     },
     {
         "menu_id":3,
@@ -24,7 +26,8 @@
         "restaurant_id": 1,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/665/febfde767bd3543e6b8d9094f2531665.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "249"
+        "menu_price": "249",
+        "quantity": 0
     },
     {
         "menu_id":4,
@@ -33,7 +36,8 @@
         "restaurant_id": 1,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/17f/731e22c58e4b9571db474c7099b1817f.png",
         "menu_type": "non-vegetarian",
-        "menu_price": "159"
+        "menu_price": "159",
+        "quantity": 0
     },
     {
         "menu_id":5,
@@ -42,7 +46,8 @@
         "restaurant_id": 1,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/b1f/b33c5c010ef9458bdf571b044553cb1f.jpg",
         "menu_type": "non-vegetarian",
-        "menu_price": "229"
+        "menu_price": "229",
+        "quantity": 0,
     },
     {
         "menu_id":6,
@@ -51,7 +56,8 @@
         "restaurant_id": 2,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/575/0239edbf30eabd638a98f99df1c8c575.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "75"
+        "menu_price": "75",
+        "quantity": 0,
     },
     {
         "menu_id":7,
@@ -60,7 +66,8 @@
         "restaurant_id": 2,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/818/a1c4c36eaaba50c706acd2c13b5df818.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "100"
+        "menu_price": "100",
+        "quantity": 0
     },
     {
         "menu_id":8,
@@ -69,7 +76,8 @@
         "restaurant_id": 2,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/d8e/42bd4f8ec4bebec1c65ecc301e292d8e.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "80"
+        "menu_price": "80",
+        "quantity": 0
     },
     {
         "menu_id":9,
@@ -78,7 +86,8 @@
         "restaurant_id": 2,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/4ab/633fe34500f0dd4f00f4685422cf84ab.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "20"
+        "menu_price": "20",
+        "quantity": 0
     },
     {
         "menu_id":10,
@@ -87,7 +96,8 @@
         "restaurant_id": 2,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/21e/ce47c7d7c43d153d3e8d98f83279b21e.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "100"
+        "menu_price": "100",
+        "quantity": 0
     },
     {
         "menu_id":11,
@@ -96,7 +106,8 @@
         "restaurant_id": 3,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/0c3/3a7e030599f84cf5704f2f1ddc7d30c3.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "259"
+        "menu_price": "259",
+        "quantity": 0
     },
     {
         "menu_id":12,
@@ -105,7 +116,8 @@
         "restaurant_id": 3,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/a75/283b5f16a275bcd4b74fb755ab71da75.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "259"
+        "menu_price": "259",
+        "quantity": 0
     },
     {
         "menu_id":13,
@@ -114,7 +126,8 @@
         "restaurant_id": 3,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/098/9f8dfb95efa7a7211dde74ecf65cc098.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "349"
+        "menu_price": "349",
+        "quantity": 0
     },
     {
         "menu_id":14,
@@ -123,7 +136,8 @@
         "restaurant_id": 3,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/e1d/c71459a34e72a938438f0467c841fe1d.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "169"
+        "menu_price": "169",
+        "quantity": 0
     },
     {
         "menu_id":15,
@@ -132,7 +146,8 @@
         "restaurant_id": 3,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/951/00379e553c8a9e7fd6b45a2d5c590951.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "99"
+        "menu_price": "99",
+        "quantity": 0
     },
     {
         "menu_id":16,
@@ -141,7 +156,8 @@
         "restaurant_id": 4,
         "menu_image": "https://b.zmtcdn.com/data/reviews_photos/2cb/64ffe4cd75031be1aa1cf792337d02cb_1589042698.jpg",
         "menu_type": "non-vegetarian",
-        "menu_price": "95"
+        "menu_price": "95",
+        "quantity": 0
     },
     {
         "menu_id":17,
@@ -150,7 +166,8 @@
         "restaurant_id": 4,
         "menu_image": "https://b.zmtcdn.com/data/pictures/chains/7/48607/717716760de9b0debbb6086129aa0ce0.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "100"
+        "menu_price": "100",
+        "quantity": 0
     },
     {
         "menu_id":18,
@@ -168,7 +185,8 @@
         "restaurant_id": 4,
         "menu_image": "https://b.zmtcdn.com/data/reviews_photos/e20/798789ca8c7537b4805a5c850c6dce20_1563567127.jpg",
         "menu_type": "non-vegetarian",
-        "menu_price": "95"
+        "menu_price": "95",
+        "quantity": 0
     },
     {
         "menu_id":20,
@@ -177,7 +195,8 @@
         "restaurant_id": 5,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/d07/fc409c80b33c04359e2c478efaf0ad07.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "135"
+        "menu_price": "135",
+        "quantity": 0
     },
     {
         "menu_id":21,
@@ -186,7 +205,8 @@
         "restaurant_id": 5,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/10b/ea861a6b68b2c1fd3acdf5d15dbc110b.jpg",
         "menu_type": "non-vegetarian",
-        "menu_price": "145"
+        "menu_price": "145",
+        "quantity": 0
     },
     {
         "menu_id":22,
@@ -195,7 +215,8 @@
         "restaurant_id": 5,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/709/cd30a018a31e9ab7ac6ff59d9a257709.jpg",
         "menu_type": "non-vegetarian",
-        "menu_price": "155"
+        "menu_price": "155",
+        "quantity": 0
     },
     {
         "menu_id":23,
@@ -204,7 +225,8 @@
         "restaurant_id": 5,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/1c2/ba3bd20a058c36dac83860b8796bd1c2.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "50"
+        "menu_price": "50",
+        "quantity": 0
     },
     {
         "menu_id":24,
@@ -213,7 +235,8 @@
         "restaurant_id": 5,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/bda/e1a923742c73790dce1f89a26c26dbda.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "55"
+        "menu_price": "55",
+        "quantity": 0
     },
     {
         "menu_id":25,
@@ -222,7 +245,8 @@
         "restaurant_id": 5,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/ddc/67a195b1f94abb3c9b680989498f2ddc.jpg",
         "menu_type": "non-vegetarian",
-        "menu_price": "89"
+        "menu_price": "89",
+        "quantity": 0
     },
     {
         "menu_id":26,
@@ -231,7 +255,8 @@
         "restaurant_id": 6,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/341/f09436f4e12eeab19c748e69c385d341.png",
         "menu_type": "vegetarian",
-        "menu_price": "169"
+        "menu_price": "169",
+        "quantity": 0
     },
     {
         "menu_id":27,
@@ -240,7 +265,8 @@
         "restaurant_id": 6,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/34d/7ab40b39dd655da9c68e52ed5388a34d.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "169"
+        "menu_price": "169",
+        "quantity": 0
     },
     {
         "menu_id":28,
@@ -249,7 +275,8 @@
         "restaurant_id": 6,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/447/1be98d6bbee331ae7827514f30686447.png",
         "menu_type": "vegetarian",
-        "menu_price": "139"
+        "menu_price": "139",
+        "quantity": 0
     },
     {
         "menu_id":29,
@@ -258,7 +285,8 @@
         "restaurant_id": 6,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/8ea/5298eb9874c44688c522714e701058ea.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "169"
+        "menu_price": "169",
+        "quantity": 0
     },
     {
         "menu_id":30,
@@ -267,7 +295,8 @@
         "restaurant_id": 7,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/ab0/8dc8997a6acd169c117468954f1a4ab0.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "169"
+        "menu_price": "169",
+        "quantity": 0
     },
     {
         "menu_id":31,
@@ -276,7 +305,8 @@
         "restaurant_id": 7,
         "menu_image": "https://b.zmtcdn.com/data/reviews_photos/ab3/647ed88d8add7b74527a3ff81e962ab3_1536153670.jpg",
         "menu_type": "non-vegetarian",
-        "menu_price": "319"
+        "menu_price": "319",
+        "quantity": 0
     },
     {
         "menu_id":32,
@@ -285,7 +315,9 @@
         "restaurant_id": 7,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/ecd/d0892dbbbe428d45bcc626c41badcecd.jpg",
         "menu_type": "non-vegetarian",
-        "menu_price": "200"
+        "menu_price": "200",
+
+        "quantity": 0
     },
     {
         "menu_id":33,
@@ -294,7 +326,8 @@
         "restaurant_id": 7,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/167/dcab664d62035f35153938c47b3d3167.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "240"
+        "menu_price": "240",
+        "quantity": 0
     },
     {
         "menu_id":34,
@@ -303,7 +336,8 @@
         "restaurant_id": 7,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/c6b/483977dd38433dfb3b28d50808765c6b.jpg",
         "menu_type": "non-vegetarian",
-        "menu_price": "275"
+        "menu_price": "275",
+        "quantity": 0
     },
     {
         "menu_id":35,
@@ -312,7 +346,8 @@
         "restaurant_id": 7,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/45c/06b67a0158694053fc1af61aa574545c.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "290"
+        "menu_price": "290",
+        "quantity": 0
     },
     {
         "menu_id":36,
@@ -321,7 +356,8 @@
         "restaurant_id": 8,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/c3d/0f7c9242099d35bca990bcb08617cc3d.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "179"
+        "menu_price": "179",
+        "quantity": 0
     },
     {
         "menu_id":37,
@@ -339,7 +375,8 @@
         "restaurant_id": 8,
         "menu_image": "https://b.zmtcdn.com/data/pictures/chains/9/1599/a9da9f420de272365ae40824b677ba21.jpg",
         "menu_type": "non-vegetarian",
-        "menu_price": "329"
+        "menu_price": "329",
+        "quantity": 0
     },
     {
         "menu_id":39,
@@ -348,7 +385,8 @@
         "restaurant_id": 8,
         "menu_image": "https://b.zmtcdn.com/data/reviews_photos/f8a/9910402080383b1b1a8fdca1584daf8a_1549917335.jpg",
         "menu_type": "non-vegetarian",
-        "menu_price": "139"
+        "menu_price": "139",
+        "quantity": 0
     },
     {
         "menu_id":40,
@@ -357,15 +395,18 @@
         "restaurant_id": 8,
         "menu_image": "https://b.zmtcdn.com/data/reviews_photos/921/36ad3e93784f97fda5908d7dd92a9921_1508677751.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "109"
-    },{
+        "menu_price": "109",
+        "quantity": 0
+    },
+    {
         "menu_id":41,
         "menu_name": "Banoffee [1 Cup]",
         "description": "A classic British dessert with a biscuit crust, a toffee or dulce de leche filling, sliced bananas, and a top layer of whipped cream.",
         "restaurant_id": 9,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/3b9/67ca74b43bb8d03adc9b4d5be1e183b9.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "75"
+        "menu_price": "75",
+        "quantity": 0
     },
     {
         "menu_id":42,
@@ -374,7 +415,8 @@
         "restaurant_id": 9,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/258/a05068e6470f56141acf93e81b9d8258.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "85"
+        "menu_price": "85",
+        "quantity": 0
     },
     {
         "menu_id":43,
@@ -383,7 +425,8 @@
         "restaurant_id": 9,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/5a9/eea8202cc2646fc340d0395bbd0f65a9.jpg",
         "menu_type": "non-vegetarian",
-        "menu_price": "145"
+        "menu_price": "145",
+        "quantity": 0
     },
     {
         "menu_id":44,
@@ -392,7 +435,8 @@
         "restaurant_id": 9,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/898/b3e5c9925636511285686e8080514898.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "140"
+        "menu_price": "140",
+        "quantity": 0
     },
     {
         "menu_id":45,
@@ -401,7 +445,8 @@
         "restaurant_id": 9,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/fc1/616261a54c12519fce698ff322974fc1.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "75"
+        "menu_price": "75",
+        "quantity": 0
     },
     {
         "menu_id":46,
@@ -410,7 +455,8 @@
         "restaurant_id": 10,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/812/168757b5fb61035fe4ea4dff935bb812.jpg",
         "menu_type": "non-vegetarian",
-        "menu_price": "219"
+        "menu_price": "219",
+        "quantity": 0
     },
     {
         "menu_id":47,
@@ -419,7 +465,8 @@
         "restaurant_id": 10,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/9bd/a2b6f43a8d49a2e200a4df9b26cc89bd.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "169"
+        "menu_price": "169",
+        "quantity": 0
     },
     {
         "menu_id":48,
@@ -428,7 +475,8 @@
         "restaurant_id": 10,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/b09/cba7f00b9448462c983cfbeb5cfb8b09.jpg",
         "menu_type": "non-vegetarian",
-        "menu_price": "199"
+        "menu_price": "199",
+        "quantity": 0
     },
     {
         "menu_id":49,
@@ -437,7 +485,8 @@
         "restaurant_id": 10,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/e97/73430a48ff2c3eee2364d8f8b220ae97.jpg",
         "menu_type": "non-vegetarian",
-        "menu_price": "189"
+        "menu_price": "189",
+        "quantity": 0
     },
     {
         "menu_id":50,
@@ -446,7 +495,8 @@
         "restaurant_id": 10,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/cc7/55b553ec8a7e610e358d45dea0422cc7.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "79"
+        "menu_price": "79",
+        "quantity": 0
     },
     {
         "menu_id":51,
@@ -455,7 +505,8 @@
         "restaurant_id": 11,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/2dc/7d31d7425ab6de31e2e92806561352dc.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "99"
+        "menu_price": "99",
+        "quantity": 0
     },{
         "menu_id":52,
         "menu_name": "Cheese Melt Down Burger",
@@ -463,7 +514,8 @@
         "restaurant_id": 11,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/5a9/10759d3aaa3f99219c916c9efd9195a9.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "169"
+        "menu_price": "169",
+        "quantity": 0
     },
     {
         "menu_id":53,
@@ -472,7 +524,8 @@
         "restaurant_id": 11,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/e6b/251f04208ee79ba396b192d87a7abe6b.jpg",
         "menu_type": "non-vegetarian",
-        "menu_price": "80"
+        "menu_price": "80",
+        "quantity": 0
     },
     {
         "menu_id":54,
@@ -481,7 +534,8 @@
         "restaurant_id": 11,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/135/b2a0cc85a53134ba273cc30efdb00135.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "209.14"
+        "menu_price": "209.14",
+        "quantity": 0
     },
     {
         "menu_id":55,
@@ -490,7 +544,8 @@
         "restaurant_id": 11,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/af9/b871732b39c98fc8f26f9044c1afeaf9.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "60"
+        "menu_price": "60",
+        "quantity": 0
     },
     {
         "menu_id":56,
@@ -499,7 +554,8 @@
         "restaurant_id": 12,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/bc6/7e32e9359a342ab0ff16144750689bc6.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "335"
+        "menu_price": "335",
+        "quantity": 0
     },
     {
         "menu_id":57,
@@ -508,7 +564,8 @@
         "restaurant_id": 12,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/b1f/a9bf008b440e754c981747a6752feb1f.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "235"
+        "menu_price": "235",
+        "quantity": 0
     },
     {
         "menu_id":58,
@@ -517,7 +574,8 @@
         "restaurant_id": 12,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/5f7/6a7f76f41dda047eb30dbc003f4e95f7.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "185"
+        "menu_price": "185",
+        "quantity": 0
     },
     {
         "menu_id":59,
@@ -526,7 +584,8 @@
         "restaurant_id": 12,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/359/b5f48db2ce7c7f3672701bf6847e5359.jpg",
         "menu_type": "non-vegetarian",
-        "menu_price": "265"
+        "menu_price": "265",
+        "quantity": 0
     },
     {
         "menu_id":60,
@@ -535,7 +594,8 @@
         "restaurant_id": 12 ,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/dad/de9dd1744194f08d159f4734c56c1dad.jpg",
         "menu_type": "non-vegetarian",
-        "menu_price": "425"
+        "menu_price": "425",
+        "quantity": 0
     },
     {
         "menu_id":61,
@@ -544,7 +604,8 @@
         "restaurant_id": 13,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/ee9/223949a94fb3cbeebd5db5cc0a7a4ee9.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "219"
+        "menu_price": "219",
+        "quantity": 0
     },
     {
         "menu_id":62,
@@ -553,7 +614,8 @@
         "restaurant_id": 13,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/1fe/952e528db42a04d6833c15dec4c0f1fe.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "209"
+        "menu_price": "209",
+        "quantity": 0
     },
     {
         "menu_id":63,
@@ -562,7 +624,8 @@
         "restaurant_id": 13,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/38a/ce8b387cd48d5244358abf896dc3538a.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "114.45"
+        "menu_price": "114.45",
+        "quantity": 0
     },
     {
         "menu_id":64,
@@ -571,7 +634,8 @@
         "restaurant_id": 13,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/f14/95e6d9bad9deceff67f14fcac24a1f14.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "72.45"
+        "menu_price": "72.45",
+        "quantity": 0
     },
     {
         "menu_id":65,
@@ -580,7 +644,8 @@
         "restaurant_id": 13,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/2be/299a14e3129d374e74d6fb3a0100e2be.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "219"
+        "menu_price": "219",
+        "quantity": 0
     },
     {
         "menu_id":66,
@@ -589,7 +654,8 @@
         "restaurant_id": 14,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/2e8/c4494d10535a8c36007e32b018c1c2e8.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "50"
+        "menu_price": "50",
+        "quantity": 0
     },
     {
         "menu_id":67,
@@ -598,7 +664,8 @@
         "restaurant_id": 14,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/d12/b02c41f4e11d43bb345865a35f505d12.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "100"
+        "menu_price": "100",
+        "quantity": 0
     },
      {
         "menu_id":68,
@@ -607,7 +674,8 @@
         "restaurant_id": 14,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/ce8/1d5acfa248f6244bcf518f1c89d2dce8.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "90"
+        "menu_price": "90",
+         "quantity": 0
     },
     {
         "menu_id":69,
@@ -616,7 +684,8 @@
         "restaurant_id": 14,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/542/6ab4d40d01abbe154433155ef4c6b542.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "60"
+        "menu_price": "60",
+        "quantity": 0
     },
     {
         "menu_id":70,
@@ -625,7 +694,8 @@
         "restaurant_id": 14,
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/dcb/437e7ba47d0fe7c78971ac916b01cdcb.jpg",
         "menu_type": "vegetarian",
-        "menu_price": "40"
+        "menu_price": "40",
+        "quantity": 0
     }
 
 ]
