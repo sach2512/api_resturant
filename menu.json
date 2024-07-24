@@ -47,7 +47,7 @@
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/b1f/b33c5c010ef9458bdf571b044553cb1f.jpg",
         "menu_type": "non-vegetarian",
         "menu_price": "229",
-        "quantity": 0,
+        "quantity": 0
     },
     {
         "menu_id":6,
@@ -57,7 +57,7 @@
         "menu_image": "https://b.zmtcdn.com/data/dish_photos/575/0239edbf30eabd638a98f99df1c8c575.jpg",
         "menu_type": "vegetarian",
         "menu_price": "75",
-        "quantity": 0,
+        "quantity": 0
     },
     {
         "menu_id":7,
@@ -176,7 +176,8 @@
         "restaurant_id": 4,
         "menu_image": "https://b.zmtcdn.com/data/reviews_photos/aa0/68eaaf502c40123e316ab06881e9faa0_1550157457.jpg",
         "menu_type": "non-vegetarian",
-        "menu_price": "100"
+        "menu_price": "100",
+         "quantity": 0
     },
     {
         "menu_id":19,
